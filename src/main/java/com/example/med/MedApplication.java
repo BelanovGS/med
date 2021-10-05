@@ -8,7 +8,7 @@ public class MedApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MedApplication.class, args);
-        //System.out.println("hello world");
+        //System.out.println("hello world"); mvn clean install -DskipTests
     }
 
 }
